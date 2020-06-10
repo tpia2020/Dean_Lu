@@ -1,7 +1,7 @@
 # TP-Innovation-Association / python-mvc-01 
 
 
-##giit 配置
+##git 配置
 
 
 ```text
